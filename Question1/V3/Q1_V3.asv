@@ -52,8 +52,8 @@ P_N = [G1_N G2_N G3_N E1_N E2_N;
        G1_N G2_N 0 E1_N E2_N;
        G1_N G2_N G3_N E1_N E2_N;
        G1_N G2_N G3_N 0 0];
-P_c0_cc = 3320 +[0 0 0 0 33.59 0];
-
+P_c0_cc = P_load + zeros(6,1);
+P_c0_cc(5) = 3320+33.59
 %% Computation
 DP_m_tot = zeros(length(DP_c),1);
 beta = zeros(length(DP_c),1);

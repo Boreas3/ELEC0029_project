@@ -19,7 +19,7 @@ function [DP_m, P_m, P_gen] = Calc_new_P_m(D, f_n, sigma, P_N, P_0, PG_0, P_c0, 
 
     
     for i=1:length(DP_c)
-        beta(i) = D(i) * P_c0 + 1/f_n * sum(P_N(i,:))/sigma;
+        beta(i) = D(i) * P_c0(i) + 1/f_n * sum(P_N(i,:))/sigma;
         DP_m(i,:) = DP_c(i) .* P_N(i,:)./(f_n*beta(i)*sigma);
         P_m(i,:) = P_0 + DP_m(i,:);
  
@@ -41,7 +41,7 @@ function [DP_m, P_m, P_gen] = Calc_new_P_m(D, f_n, sigma, P_N, P_0, PG_0, P_c0, 
                 DP_c_new(i) = DP_c_new(i) - DP_m(i,j);
             end
         end
-        beta_new(i) = D(i) * P_c0 + 1/f_n * sum(P_N_new(i,:))/sigma;
+        beta_new(i) = D(i) * P_c0(i) + 1/f_n * sum(P_N_new(i,:))/sigma;
         for j=1:length(P_N(1,:))
             if o(j) == 1
                 DP_m(i,j) = DP_c_new(i) .* P_N_new(i,j)./(f_n*beta_new(i)*sigma);
