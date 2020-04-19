@@ -2,7 +2,7 @@
 
 $TOLAC   0.1 ;   tolerance in MW on active power mismatches
 $TOLREAC 0.1 ;   tolerance in Mvar on reactive power mismatches
-$NBITMA   100 ;   maximum number of Newton iterations
+$NBITMA   15 ;   maximum number of Newton iterations
 $MISBLOC  0. ;   tolerance in MVA below which the Jacobian is frozen
 $MISADJ   1. ;   tolerance in MVA below which transfo ratios are adjusted (if requested)
 $MISQLIM  1. ;   tolerance in Mvar below which reactive power limits are checked 
@@ -35,7 +35,6 @@ BUS    B309   380.0   220.0     75.0    0.0   0.0  ;
 BUS    B310   380.0     0.0      0.0    0.0   0.0  ;
 BUS    B311   380.0   100.0     30.0    0.0   0.0  ;
 BUS    B313   380.0   300.0     70.0    0.0   0.0  ;  
-BUS    B314   380.0   0   0.0    0.0   0.0  ;  
 
 
 BUS    E1     380.0     0.0      0.0    0.0   0.0  ;
@@ -76,7 +75,7 @@ LINE     'L301-304#3' B301         B304
   0.70800       7.5380       44.391       1350.0     1 ;
 LINE     'L301-302 '  B301         B302       
   0.20200       2.0940       11.219       1350.0     1 ;
-LINE     'L314-313'   B314         B313      
+LINE     'L306-313'   B306         B313      
    1.2560       13.992       80.125       1350.0     1 ;
 LINE     'L304-303 '  B304         B303       
    1.0540       11.148       65.651       1350.0     1 ;
@@ -106,8 +105,6 @@ TRANSFO  'T305-106'   B305         B106
   0.15100       11.596     0.   0.   105.00   0.   550.00   1 ;
 TRANSFO  'T306-104'   B306         B104   
   0.14600       11.440     0.   0.   102.00   0.   550.00   1 ;
-TRANSFO  'T306-314'   B306         B314   
-  0.       10     0.   0.   100.00   0.   1350.0   1 ;
 TRANSFO  'TG1-301'    G1           B301       
   0.23000       10.700     0.   0.   103.11   0.   1000.0   1 ;
 TRANSFO  'TG2-301'    G2           B301       
@@ -120,8 +117,6 @@ TRANSFO  'TG5-105'    G5           B105
   0.25000       13.000     0.   0.   106.00   0.   500.00   1 ;
 TRANSFO  'TG6-310'    G6           B310      
   0.25000       13.000     0.   0.   104.58   0.   1050.0   1 ;  
-
-PSHIFT-P 'T306-314'  'L314-313'  0.  359.  360.  -1.  100.  20.  0. 0.;
 
 GENER     G1          G1           G1       
    751.170508664677       0.0     1.0          1000.0      -250.00       620.0     1 ;

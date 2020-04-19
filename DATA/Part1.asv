@@ -29,8 +29,8 @@ for i=1:length(Vnom)
 Vnom(i) = Bus.VNOM(Bus.NAME == string(Line.FROM_BUS(i)));
 end
 %S = sqrt((RI^2)^2 + (XI^2)^2)
-I_max = (Snom.*1e6)./(sqrt(3).*Vnom*1e3);
-SMAX = 3*I_max.^2./real(Y2)/1e6;
+I_max = (Snom.*1e6)./sqrt(3)(R.^2+X.^2)));
+PMAX = Vnom.^2.*abs(Y2);
 NAME = Line.NAME;
 P_adm = table(NAME, PMAX);
 
