@@ -1,0 +1,124 @@
+outage of branch L306-308  
+BT
+L306-308  
+end_contingency
+outage of branch L306-309
+BT
+L306-309
+end_contingency
+outage of branch L306-304   
+BT
+L306-304  
+end_contingency
+outage of branch L306-307  
+BT
+L306-307  
+end_contingency
+outage of branch L308-310  
+BT
+L308-310 
+end_contingency
+outage of branch L309-310 
+BT
+L309-310 
+end_contingency
+outage of branch L301-304#1
+BT
+L301-304#1
+end_contingency
+outage of branch L304-303    
+BT
+L304-303  
+end_contingency
+outage of branch L305-304#1 
+BT
+L305-304#1
+end_contingency
+outage of branch L102-103
+BT
+L102-103
+end_contingency
+outage of branch L102-101
+BT
+L102-101
+end_contingency
+outage of branch L106-103
+BT
+L106-103
+end_contingency
+outage of branch L106-105
+BT
+L106-105
+end_contingency
+outage of branch L104-105
+BT
+L104-105
+end_contingency
+outage of branch L104-105
+BT
+L104-105
+end_contingency
+outage of branch T303-101
+BT
+T303-101
+end_contingency
+outage of branch T307-105
+BT
+T307-105
+end_contingency
+outage of branch T304-102
+BT
+T304-102
+end_contingency
+outage of branch T305-106
+BT
+T305-106
+end_contingency
+outage of branch T306-104
+BT
+T306-104
+end_contingency
+outage of branch L314-313
+BT
+L314-313
+end_contingency
+outage of branch L311-310
+BT
+L311-310
+end_contingency
+outage of generator G1 + transfo 
+GT
+G1
+BT
+TG1-301
+end_contingency
+outage of generator G2 + transfo
+GT
+G2
+BT
+TG2-301
+end_contingency
+outage of generator G3 + transfo
+GT
+G3
+BT
+TG3-101
+end_contingency
+outage of generator G4 + transfo
+GT
+G4
+BT
+TG4-103
+end_contingency
+outage of generator G5 + transfo
+GT
+G5
+BT
+TG5-105
+end_contingency
+outage of generator G6 + transfo
+GT
+G6
+BT
+TG6-310
+end_contingency

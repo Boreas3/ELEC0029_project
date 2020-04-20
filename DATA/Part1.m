@@ -30,7 +30,7 @@ Vnom(i) = Bus.VNOM(Bus.NAME == string(Line.FROM_BUS(i)));
 end
 %S = sqrt((RI^2)^2 + (XI^2)^2)
 I_max = (Snom.*1e6)./(sqrt(3).*Vnom*1e3);
-SMAX = 3*I_max.^2./real(Y2)/1e6;
+PMAX = 3*I_max.^2./real(Y2)/1e6;
 NAME = Line.NAME;
 P_adm = table(NAME, PMAX);
 

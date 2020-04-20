@@ -1,78 +1,154 @@
- 
- B102        -55.5/   27.3 > L102-103             <    55.5/  -27.2   B103    
-    lost :   0.04 /   0.05 (   0.44 ser   -0.39 sh)  S =    61.8 =   17.9 %
- B102       -105.1/  -26.5 > L102-101             <   107.1/   31.7   B101    
-    lost :   2.02 /   5.17 (   7.52 ser   -2.34 sh)  S =   111.7 =   31.2 %
- B106         48.5/   22.8 > L106-103             <   -48.4/  -22.9   B103    
-    lost :   0.16 /  -0.06 (   0.73 ser   -0.79 sh)  S =    53.6 =   15.5 %
- B106        -75.2/  -22.2 > L106-105             <    75.7/   23.4   B105    
-    lost :   0.49 /   1.23 (   2.64 ser   -1.41 sh)  S =    79.2 =   22.5 %
- B104        -58.6/  -55.0 > L104-105             <    59.0/   55.9   B105    
-    lost :   0.40 /   0.94 (   1.95 ser   -1.01 sh)  S =    81.3 =   23.1 %
- B104         88.2/   -4.4 > L104-103             <   -87.7/    5.7   B103    
-    lost :   0.49 /   1.39 (   2.37 ser   -0.98 sh)  S =    88.3 =   25.4 %
- B311       1132.3/  109.4 > L311-310             < -1122.6/  -27.0   B310    
-    lost :   9.71 /  82.39 ( 102.90 ser  -20.51 sh)  S =  1137.6 =   82.1 %
- B306       -712.5/   61.0 > L306-308             <   717.8/  -31.2   B308    
-    lost :   5.33 /  29.83 (  53.35 ser  -23.52 sh)  S =   718.5 =   54.1 %
- B306       -720.0/   63.2 > L306-309             <   725.1/  -32.5   B309    
-    lost :   5.12 /  30.70 (  54.23 ser  -23.53 sh)  S =   725.8 =   54.7 %
- B306        183.6/  -92.7 > L306-304             <  -183.2/   79.0   B304    
-    lost :   0.36 / -13.69 (   3.00 ser  -16.69 sh)  S =   205.6 =   15.5 %
- B306        120.7/   71.9 > L306-307             <  -120.6/  -86.9   B307    
-    lost :   0.18 / -14.95 (   1.55 ser  -16.50 sh)  S =   148.6 =   11.3 %
- B308       -947.8/  -38.8 > L308-310             <   961.8/  147.7   B310    
-    lost :  13.95 / 108.94 ( 148.77 ser  -39.84 sh)  S =   973.1 =   71.5 %
- B309       -945.1/  -42.5 > L309-310             <   959.0/  150.8   B310    
-    lost :  13.88 / 108.28 ( 148.10 ser  -39.82 sh)  S =   970.8 =   71.3 %
- B301        145.5/  124.8 > L301-304#1           <  -145.3/ -134.1   B304    
-    lost :   0.21 /  -9.28 (   1.80 ser  -11.08 sh)  S =   197.7 =   14.9 %
- B301        127.2/  112.4 > L301-304#2           <  -127.1/ -123.3   B304    
-    lost :   0.15 / -10.92 (   1.61 ser  -12.53 sh)  S =   177.1 =   13.3 %
- B301        127.2/  112.4 > L301-304#3           <  -127.1/ -123.3   B304    
-    lost :   0.15 / -10.92 (   1.61 ser  -12.53 sh)  S =   177.1 =   13.3 %
- B301        340.9/  107.0 > L301-302             <  -340.7/ -108.3   B302    
-    lost :   0.18 /  -1.30 (   1.89 ser   -3.18 sh)  S =   357.5 =   26.8 %
- B314        778.2/ -195.4 > L314-313             <  -772.6/  235.0   B313    
-    lost :   5.64 /  39.62 (  62.79 ser  -23.16 sh)  S =   807.5 =   59.8 %
- B304         68.7/   50.9 > L304-303             <   -68.6/  -68.6   B303    
-    lost :   0.06 / -17.64 (   0.66 ser  -18.31 sh)  S =    97.0 =    7.3 %
- B305       -156.9/  -76.1 > L305-304#1           <   157.0/   67.1   B304    
-    lost :   0.14 /  -9.02 (   1.51 ser  -10.53 sh)  S =   174.4 =   13.2 %
- B305       -156.9/  -76.1 > L305-304#2           <   157.0/   67.1   B304    
-    lost :   0.14 /  -9.02 (   1.51 ser  -10.53 sh)  S =   174.4 =   13.2 %
- E1         1309.9/   69.2 > LE1-E3               < -1262.9/  326.5   E3      
-    lost :  47.01 / 395.71 ( 470.10 ser  -74.40 sh)  S =  1311.7 =   12.3 %
- E2        -1219.2/  305.2 > LE2-E3               <  1262.9/   57.0   E3      
-    lost :  43.65 / 362.12 ( 436.51 ser  -74.40 sh)  S =  1264.1 =   11.8 %
- B313        472.6/ -305.0 > L313-E2              <  -466.0/  343.8   E2      
-    lost :   6.61 /  38.81 (  69.98 ser  -31.17 sh)  S =   579.1 =    5.6 %
- B311      -1232.3/ -139.4 > L311-E1              <  1250.6/  303.3   E1      
-    lost :  18.33 / 163.85 ( 193.65 ser  -29.80 sh)  S =  1286.9 =   12.1 %
- B302        340.7/  108.3 > T302-107             <  -340.0/  -54.4   B107    
-    lost :   0.74 /  53.88 (  53.88 ser    0.00 sh)  S =   357.5 =   65.7 %
- B303         68.6/   68.6 > T303-101             <   -68.6/  -64.6   B101    
-    lost :   0.05 /   4.03 (   4.03 ser    0.00 sh)  S =    97.0 =   18.0 %
- B307        120.6/   86.9 > T307-105             <  -120.5/  -77.3   B105    
-    lost :   0.11 /   9.58 (   9.58 ser    0.00 sh)  S =   148.6 =   27.7 %
- B304        199.9/  116.6 > T304-102             <  -199.5/  -92.0   B102    
-    lost :   0.42 /  24.61 (  24.61 ser    0.00 sh)  S =   231.4 =   42.7 %
- B305        313.7/  152.3 > T305-106             <  -313.4/ -125.6   B106    
-    lost :   0.35 /  26.65 (  26.65 ser    0.00 sh)  S =   348.7 =   64.6 %
- B306        350.0/   43.6 > T306-104             <  -349.6/  -16.7   B104    
-    lost :   0.34 /  26.91 (  26.91 ser    0.00 sh)  S =   352.7 =   65.4 %
- B306        778.2/ -147.0 > T306-314             <  -778.2/  195.4   B314    
-    lost :   0.00 /  48.32 (  48.32 ser    0.00 sh)  S =   802.4 =   59.8 %
- G1          721.2/  366.8 > TG1-301              <  -719.7/ -296.8   B301    
-    lost :   1.51 /  70.05 (  70.05 ser    0.00 sh)  S =   809.1 =   80.9 %
- G2           21.2/  162.4 > TG2-301              <   -21.1/ -159.8   B301    
-    lost :   0.03 /   2.64 (   2.64 ser    0.00 sh)  S =   163.8 =   16.4 %
- G3          399.4/   92.9 > TG3-101              <  -398.5/  -48.3   B101    
-    lost :   0.86 /  44.60 (  44.60 ser    0.00 sh)  S =   410.0 =   82.8 %
- G4          250.0/  136.4 > TG4-103              <  -249.4/ -105.7   B103    
-    lost :   0.59 /  30.73 (  30.73 ser    0.00 sh)  S =   284.8 =   82.2 %
- G5          375.0/  143.0 > TG5-105              <  -374.2/ -100.3   B105    
-    lost :   0.82 /  42.73 (  42.73 ser    0.00 sh)  S =   401.3 =   81.1 %
- G6          800.0/  365.4 > TG6-310              <  -798.2/ -271.5   B310    
-    lost :   1.81 /  93.88 (  93.88 ser    0.00 sh)  S =   879.5 =   82.9 %
- 
+
+
+ *** contingency     1 : outage of branch L306-308               
+
+    current in branch L306-309             =  13.97 >  13.50 pu (SNOM)
+    current in branch L309-310             =  16.20 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency     2 : outage of branch L306-309               
+
+    current in branch L306-308             =  13.96 >  13.50 pu (SNOM)
+    current in branch L308-310             =  16.29 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency     3 : outage of branch L306-304               
+
+    => accepted
+
+
+ *** contingency     4 : outage of branch L306-307               
+
+    voltage at bus B307     = 0.92692 < 0.93000 pu
+    => refused
+
+
+ *** contingency     5 : outage of branch L308-310               
+
+    current in branch L306-309             =  16.09 >  13.50 pu (SNOM)
+    current in branch L309-310             =  18.35 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency     6 : outage of branch L309-310               
+
+    current in branch L306-308             =  15.98 >  13.50 pu (SNOM)
+    current in branch L308-310             =  18.35 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency     7 : outage of branch L301-304#1             
+
+    => accepted
+
+
+ *** contingency     8 : outage of branch L304-303               
+
+    => accepted
+
+
+ *** contingency     9 : outage of branch L305-304#1             
+
+    => accepted
+
+
+ *** contingency    10 : outage of branch L102-103               
+
+    => accepted
+
+
+ *** contingency    11 : outage of branch L102-101               
+
+    => accepted
+
+
+ *** contingency    12 : outage of branch L106-103               
+
+    => accepted
+
+
+ *** contingency    13 : outage of branch L106-105               
+
+    => accepted
+
+
+ *** contingency    14 : outage of branch L104-105               
+
+    => accepted
+
+
+ *** contingency    15 : outage of branch L104-105               
+
+    => accepted
+
+
+ *** contingency    16 : outage of branch T303-101               
+
+    => accepted
+
+
+ *** contingency    17 : outage of branch T307-105               
+
+    => accepted
+
+
+ *** contingency    18 : outage of branch T304-102               
+
+    => accepted
+
+
+ *** contingency    19 : outage of branch T305-106               
+
+    => accepted
+
+
+ *** contingency    20 : outage of branch T306-104               
+
+    => accepted
+
+
+ *** contingency    21 : outage of branch L306-313               
+
+    => accepted
+
+
+ *** contingency    22 : outage of branch L311-310               
+
+    => accepted
+
+
+ *** contingency    23 : outage of generator G1 + transfo        
+
+    current in branch L311-310             =  17.38 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency    24 : outage of generator G2 + transfo        
+
+    => accepted
+
+
+ *** contingency    25 : outage of generator G3 + transfo        
+
+    current in branch L311-310             =  14.67 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency    26 : outage of generator G4 + transfo        
+
+    current in branch L311-310             =  13.51 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency    27 : outage of generator G5 + transfo        
+
+    current in branch L311-310             =  14.46 >  13.50 pu (SNOM)
+    => refused
+
+
+ *** contingency    28 : outage of generator G6 + transfo        
+
+    current in branch L311-310             =  18.84 >  13.50 pu (SNOM)
+    => refused
