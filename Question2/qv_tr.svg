@@ -1625,7 +1625,7 @@
      inkscape:groupmode="layer"
      id="g5724"
      inkscape:label="reactive_power_branch"
-     style="display:none"
+     style="display:inline"
      transform="translate(472.51422,-251.28463)">
     <path
        style="display:inline;fill:#008000;stroke:#008000;stroke-width:13.33333302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutMw)"
@@ -2100,19 +2100,19 @@
          y="8496.4941">%ELE1-E3,E1</tspan></text>
     <path
        style="display:inline;fill:#008000;stroke:#008000;stroke-width:13.33333302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutMw-1-4);enable-background:new"
-       d="m 1500,1600 -167.8933,0"
+       d="m 1150,1600 -167.8933,0"
        id="path5730-6-6"
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#008000;fill-opacity:1;stroke:none;enable-background:new"
-       x="1000"
+       x="800"
        y="1800"
        id="text5784-7-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6957"
-         x="1000"
+         x="800"
          y="1800">%ELE2-E3,E2</tspan></text>
     <path
        style="display:inline;fill:#008000;stroke:#008000;stroke-width:13.33333302;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutMw-1-9);enable-background:new"
@@ -2148,7 +2148,7 @@
          y="1564.8176">%EL313-E2,E2</tspan></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:groupmode="layer"
      id="g5872"
      inkscape:label="Vmagn"
@@ -3302,7 +3302,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="gener_breaker"
-     style="display:none"
+     style="display:inline"
      transform="translate(-202.57572,8.3343575e-5)">
     <text
        sodipodi:linespacing="125%"
@@ -3412,7 +3412,7 @@
   </g>
   <g
      transform="translate(472.51422,-251.28463)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="active_power_loads_gener"
      id="layer1"
      inkscape:groupmode="layer">
@@ -3758,7 +3758,7 @@
   </g>
   <g
      transform="translate(472.51422,-251.28463)"
-     style="display:inline"
+     style="display:none"
      inkscape:label="active_power_branch"
      id="layer2"
      inkscape:groupmode="layer">
@@ -4287,7 +4287,7 @@
      inkscape:label="Vtheta"
      id="layer5"
      inkscape:groupmode="layer"
-     style="display:inline">
+     style="display:none">
     <text
        sodipodi:linespacing="125%"
        id="text3678"
@@ -4623,7 +4623,7 @@
      inkscape:groupmode="layer"
      id="g5615"
      inkscape:label="reactive_power_loads_gener"
-     style="display:none"
+     style="display:inline"
      transform="translate(472.51422,-251.28463)">
     <text
        xml:space="preserve"

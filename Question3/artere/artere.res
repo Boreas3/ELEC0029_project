@@ -1,0 +1,30 @@
+ 
+          bus G1       : V= 1.0556 pu   -3.94 deg         21.11 kV
+          bus G2       : V= 1.0156 pu   -7.95 deg         20.31 kV
+          bus G3       : V= 0.9900 pu   -4.08 deg         19.80 kV
+          bus G4       : V= 0.9900 pu   -7.63 deg         19.80 kV
+          bus G5       : V= 0.9900 pu   -5.17 deg         19.80 kV
+          bus G6       : V= 1.0100 pu    3.32 deg         20.20 kV
+          bus B101     : V= 1.0436 pu  -10.19 deg        156.53 kV
+          bus B102     : V= 1.0171 pu  -13.57 deg        152.56 kV
+          bus B103     : V= 1.0129 pu  -13.18 deg        151.94 kV
+          bus B104     : V= 1.0233 pu  -11.76 deg        153.50 kV
+          bus B105     : V= 1.0358 pu  -10.93 deg        155.37 kV
+          bus B106     : V= 1.0260 pu  -12.63 deg        153.91 kV
+          bus B107     : V= 1.0827 pu  -16.25 deg        162.41 kV
+          bus B301     : V= 1.0268 pu   -8.07 deg        390.18 kV
+          bus B302     : V= 1.0250 pu   -8.33 deg        389.49 kV
+          bus B303     : V= 1.0113 pu   -8.64 deg        384.29 kV
+          bus B304     : V= 1.0195 pu   -8.40 deg        387.41 kV
+          bus B305     : V= 1.0145 pu   -8.80 deg        385.52 kV
+          bus B306     : V= 1.0189 pu   -7.67 deg        387.19 kV
+          bus B307     : V= 1.0097 pu   -8.08 deg        383.69 kV
+          bus B308     : V= 1.0238 pu   -6.34 deg        389.04 kV
+          bus B309     : V= 1.0234 pu   -6.30 deg        388.91 kV
+          bus B310     : V= 1.0434 pu   -2.30 deg        396.48 kV
+          bus B311     : V= 1.0528 pu   -1.66 deg        400.05 kV
+          bus B313     : V= 1.0278 pu   -6.87 deg        390.57 kV
+          bus E1       : V= 1.0700 pu    0.00 deg        406.60 kV
+          bus E2       : V= 1.0700 pu   -1.50 deg        406.60 kV
+          bus E3       : V= 1.0700 pu   -0.75 deg        406.60 kV
+ 
