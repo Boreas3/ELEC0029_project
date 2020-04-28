@@ -1,4 +1,5 @@
-function [Y0,P_inj, eta] = crea_matrix()
+function [Y0, P_inj, Q_inj, P_gen, Q_gen, Vnom, theta] = crea_matrix()
+    global P_load Q_load
     Y0=zeros( 28) ;
     j = sqrt(-1);
     % Contributions of branches to Y
@@ -159,42 +160,46 @@ function [Y0,P_inj, eta] = crea_matrix()
     Y0( 13, 13)=Y0( 13, 13)+ j*  0.69999999     ;
 
     P_inj = zeros(28,1);
+    Q_inj = zeros(28,1);
+    P_gen = zeros(28,1);
+    Q_gen = zeros(28,1);
+    Vnom = zeros(28,1);
+    theta = zeros(28,1);
     opt(  1).name= 'G1      ' ;
     opt(  1).magv=   1.0300000     ;
     opt(  1).phav= -0.65103864E-01 ;
     opt(  1).injp=   721.17053     ;
     opt(  1).injq=   482.08566     ;
-
     opt(  2).name= 'G2      ' ;
     opt(  2).magv=   1.0000000     ;
     opt(  2).phav= -0.13832011     ;
     opt(  2).injp=   21.170509     ;
     opt(  2).injq=  -34.487091     ;
-
+    
     opt(  3).name= 'G3      ' ;
     opt(  3).magv=  0.99000001     ;
     opt(  3).phav= -0.71983445E-01 ;
     opt(  3).injp=   399.38126     ;
     opt(  3).injq=   56.176460     ;
-
+    
     opt(  4).name= 'G4      ' ;
     opt(  4).magv=  0.99000001     ;
     opt(  4).phav= -0.13460239     ;
     opt(  4).injp=   250.00000     ;
     opt(  4).injq=   94.553444     ;
-
+    
     opt(  5).name= 'G5      ' ;
     opt(  5).magv=  0.99000001     ;
     opt(  5).phav= -0.91239227E-01 ;
     opt(  5).injp=   375.00000     ;
     opt(  5).injq=   82.446190     ;
-
+    
     opt(  6).name= 'G6      ' ;
     opt(  6).magv=   1.0100000     ;
     opt(  6).phav=  0.58433384E-01 ;
     opt(  6).injp=   800.00000     ;
     opt(  6).injq=   150.33943     ;
-
+    
     opt(  7).name= 'B101    ' ;
     opt(  7).magv=   1.0375649     ;
     opt(  7).phav= -0.17905402     ;
@@ -314,19 +319,25 @@ function [Y0,P_inj, eta] = crea_matrix()
     opt( 26).phav=   0.0000000     ;
     opt( 26).injp=   304.89325     ;
     opt( 26).injq=   76.937172     ;
-
+    
     opt( 27).name= 'E2      ' ;
     opt( 27).magv=   1.0700001     ;
     opt( 27).phav= -0.26393049E-01 ;
     opt( 27).injp=   414.80240     ;
     opt( 27).injq=   151.51492     ;
-
+    
     opt( 28).name= 'E3      ' ;
     opt( 28).magv=   1.0700001     ;
     opt( 28).phav= -0.13205233E-01 ;
     opt( 28).injp=   0.0000000     ;
     opt( 28).injq=  -73.755745     ;
+    
     for i=1:28
         P_inj(i) = opt( i).injp/1000;
+        Q_inj(i) = opt( i).injq/1000;
+        P_gen(i) = P_inj(i) + P_load(i);
+        Q_gen(i) = Q_inj(i) + Q_load(i);
+        Vnom(i) = opt( i).magv;
+        theta(i) = opt( i).phav*180/pi;
     end
 end
