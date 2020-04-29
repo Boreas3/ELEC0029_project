@@ -28,7 +28,7 @@ E3_0 = 0;
 PG_0 = [G1_0 G2_0 G3_0 G4_0 G5_0 G6_0];
 P_0 = [G1_0 G2_0 G3_0 E1_0 E2_0];
 P_c0 = G1_0+G2_0+G3_0+G4_0+G5_0+G6_0+E1_0+E2_0+E3_0; % MW
-P_c0_cc = 3346.72;
+P_c0_cc = 3346.72; % Power generated for the case without tripping.
 G1_N = 850; % MW
 G2_N = 850;
 G3_N = 405;
@@ -59,7 +59,7 @@ P_G = [G1_0 G2_0 G3_0 G4_0 G5_0 G6_0;
        G1_0 G2_0 G3_0 G4_0 G5_0 0;
        G1_0 G2_0 G3_0 G4_0 G5_0 G6_0];
        
-P_load = 3320 +[29.27 29.42 37.46 39.86 33.60 18.70];
+P_load = 3320 +[29.27 29.42 37.46 39.86 33.60 18.70]; % Power generated for each events
 
 %% Computation
 DP_m_tot = zeros(length(DP_c),1);

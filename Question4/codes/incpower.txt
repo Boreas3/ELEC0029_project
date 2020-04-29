@@ -1,0 +1,3300 @@
+
+
+ *** contingency     1 : increase load 0.0%                      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     2 : increase load 0.010101010101010166%     
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     3 : increase load 0.02020202020202011%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     4 : increase load 0.030303030303030276%     
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     5 : increase load 0.04040404040404044%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     6 : increase load 0.05050505050505061%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     7 : increase load 0.06060606060606055%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     8 : increase load 0.07070707070707072%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency     9 : increase load 0.08080808080808088%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    10 : increase load 0.09090909090909083%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    11 : increase load 0.101010101010101%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    12 : increase load 0.11111111111111116%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    13 : increase load 0.1212121212121211%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    14 : increase load 0.13131313131313127%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    15 : increase load 0.14141414141414144%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    16 : increase load 0.1515151515151516%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    17 : increase load 0.16161616161616155%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    18 : increase load 0.1717171717171717%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    19 : increase load 0.18181818181818188%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    20 : increase load 0.19191919191919182%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    21 : increase load 0.202020202020202%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    22 : increase load 0.21212121212121215%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    23 : increase load 0.22222222222222232%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    24 : increase load 0.23232323232323226%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    25 : increase load 0.24242424242424243%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    26 : increase load 0.2525252525252526%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    27 : increase load 0.26262626262626254%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    28 : increase load 0.2727272727272727%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    29 : increase load 0.2828282828282829%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    30 : increase load 0.2929292929292928%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    31 : increase load 0.303030303030303%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    32 : increase load 0.31313131313131315%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    33 : increase load 0.3232323232323233%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    34 : increase load 0.33333333333333326%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    35 : increase load 0.3434343434343434%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    36 : increase load 0.3535353535353536%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    37 : increase load 0.36363636363636376%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    38 : increase load 0.3737373737373737%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    39 : increase load 0.38383838383838387%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    40 : increase load 0.39393939393939403%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    41 : increase load 0.404040404040404%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    42 : increase load 0.41414141414141414%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    43 : increase load 0.4242424242424243%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    44 : increase load 0.43434343434343425%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    45 : increase load 0.4444444444444444%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    46 : increase load 0.4545454545454546%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    47 : increase load 0.46464646464646453%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    48 : increase load 0.4747474747474747%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    49 : increase load 0.48484848484848486%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    50 : increase load 0.49494949494949503%      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    51 : increase load 0.5050505050505052%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    52 : increase load 0.5151515151515151%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    53 : increase load 0.5252525252525253%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    54 : increase load 0.5353535353535355%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    55 : increase load 0.5454545454545454%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    56 : increase load 0.5555555555555556%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    57 : increase load 0.5656565656565657%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    58 : increase load 0.5757575757575757%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    59 : increase load 0.5858585858585859%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    60 : increase load 0.595959595959596%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    61 : increase load 0.606060606060606%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    62 : increase load 0.6161616161616161%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    63 : increase load 0.6262626262626263%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    64 : increase load 0.6363636363636362%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    65 : increase load 0.6464646464646466%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    66 : increase load 0.6565656565656566%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    67 : increase load 0.6666666666666665%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    68 : increase load 0.6767676767676769%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    69 : increase load 0.6868686868686869%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    70 : increase load 0.696969696969697%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    71 : increase load 0.7070707070707072%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    72 : increase load 0.7171717171717171%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    73 : increase load 0.7272727272727273%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    74 : increase load 0.7373737373737375%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    75 : increase load 0.7474747474747474%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    76 : increase load 0.7575757575757576%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    77 : increase load 0.7676767676767677%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    78 : increase load 0.7777777777777777%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    79 : increase load 0.7878787878787878%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    80 : increase load 0.797979797979798%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    81 : increase load 0.808080808080808%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    82 : increase load 0.8181818181818183%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    83 : increase load 0.8282828282828283%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    84 : increase load 0.8383838383838382%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    85 : increase load 0.8484848484848486%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    86 : increase load 0.8585858585858586%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    87 : increase load 0.8686868686868687%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    88 : increase load 0.8787878787878789%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    89 : increase load 0.8888888888888888%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    90 : increase load 0.898989898989899%        
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    91 : increase load 0.9090909090909092%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    92 : increase load 0.9191919191919191%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    93 : increase load 0.9292929292929293%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    94 : increase load 0.9393939393939394%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    95 : increase load 0.9494949494949494%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    96 : increase load 0.9595959595959596%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    97 : increase load 0.9696969696969697%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    98 : increase load 0.9797979797979797%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency    99 : increase load 0.9898989898989901%       
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
+
+
+ *** contingency   100 : increase load 1.0%                      
+
+    voltage at bus G1       = 1.00000 > 0.95000 pu
+    voltage at bus G2       = 1.00000 > 0.95000 pu
+    voltage at bus G3       = 0.99000 > 0.95000 pu
+    voltage at bus G4       = 0.99000 > 0.95000 pu
+    voltage at bus G5       = 0.99000 > 0.95000 pu
+    voltage at bus G6       = 1.01000 > 0.95000 pu
+    voltage at bus B101     = 1.03097 > 0.95000 pu
+    voltage at bus B102     = 0.99212 > 0.95000 pu
+    voltage at bus B103     = 0.98816 > 0.95000 pu
+    voltage at bus B104     = 0.97822 > 0.95000 pu
+    voltage at bus B105     = 1.01476 > 0.95000 pu
+    voltage at bus B106     = 1.00227 > 0.95000 pu
+    voltage at bus B107     = 1.04838 > 0.95000 pu
+    voltage at bus B301     = 0.99932 > 0.95000 pu
+    voltage at bus B302     = 0.99731 > 0.95000 pu
+    voltage at bus B303     = 0.98825 > 0.95000 pu
+    voltage at bus B304     = 0.99468 > 0.95000 pu
+    voltage at bus B305     = 0.98945 > 0.95000 pu
+    voltage at bus B306     = 1.00642 > 0.95000 pu
+    voltage at bus B307     = 0.99457 > 0.95000 pu
+    voltage at bus B308     = 1.01407 > 0.95000 pu
+    voltage at bus B309     = 1.01372 > 0.95000 pu
+    voltage at bus B310     = 1.03837 > 0.95000 pu
+    voltage at bus B311     = 1.04969 > 0.95000 pu
+    voltage at bus B313     = 1.01889 > 0.95000 pu
+    voltage at bus E1       = 1.07000 > 0.95000 pu
+    voltage at bus E2       = 1.07000 > 0.95000 pu
+    voltage at bus E3       = 1.07000 > 0.95000 pu
+    => refused
